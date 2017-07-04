@@ -1,0 +1,1 @@
+# aplikacje.gov.pl-ezd - makiety UX wybranych funkcjonalności aplikacji EZD
